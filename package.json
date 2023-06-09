@@ -1,0 +1,25 @@
+{
+  "name": "bootnodejspro",
+  "version": "1.0.0",
+  "description": "Coursera Project using Node js Bootstrap and etc",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashish6234/BootNodeJsPro.git"
+  },
+  "author": "Ashish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashish6234/BootNodeJsPro/issues"
+  },
+  "homepage": "https://github.com/ashish6234/BootNodeJsPro#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
