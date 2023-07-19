@@ -11,7 +11,7 @@
 }
 
 .footer{
-    background-color: antiquewhite;
+    background-color: rgb(251, 221, 181);
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -29,4 +29,8 @@
     padding: auto;
     color: black;
 
+}
+
+#warn{
+    background-color: aqua;
 }
